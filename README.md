@@ -2,11 +2,11 @@
 Меня зовут Иван. Изучаю Python самостоятельно и обучаюсь по государственной программе "Цифровые Профессии".
 
 ## Мои проекты:
-- [**PoETRY**](https://github.com/proDreams/PoETRY) - Программа для игры Path of Exile. Расчитывает соотношения стоимости предмета к сфере хаоса.  
+- [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Программа для игры Path of Exile. Расчитывает соотношения стоимости предмета к сфере хаоса.  
 Используемые библиотеки:
+    - Flet
     - Requests
     - Selenium
-    - Tabulate
     - Webdriver-manager
     - PyYAML
 - **Дипломный проект** - Сайт база-знаний для работников контактного центра.  
@@ -32,4 +32,4 @@
     - AppScheduler
     
 
-<h4 align="right">updated: 17.04.23</h3>
+<h4 align="right">updated: 17.05.23</h3>
