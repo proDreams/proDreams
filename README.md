@@ -16,41 +16,22 @@
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
-- [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для крановщика упрощающее ведение записей по количеству поднятого за рабочий день.
-Используемые библиотеки:
-    - Kivy
-    - KivyMD
-    - gspread
-    - SQLite
-- [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Программа для игры Path of Exile. Рассчитывает соотношения стоимости предмета к сфере хаоса.  
-Используемые библиотеки:
-    - Flet
-    - Requests
-    - Selenium
-    - Webdriver-manager
-    - PyYAML
+- [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для Android "Счётчик для оператора манипулятора".
+Используемые библиотеки: `Kivy`, `KivyMD`, `gspread`, `SQLite`
+
+- [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Приложение с графическим интерфейсом для оценки внутриигровых предметов в онлайн игре.  
+Используемые библиотеки: `Flet`, `Requests`, `Selenium`, `Webdriver-manager`, `PyYAML`
+
 - **Дипломный проект** - Сайт база-знаний для работников контактного центра.  
-Используемые библиотеки и технологии:
-    - Django
-    - Django REST Framework
-    - Django ckeditor
-    - AIOGram
-    - Docker
-    - PostgreSQL
-    - Bootstrap5
-    - Requests
-- **Telegram-бот для двух учебных групп** - Многофункциональный бот с оповещениями студентов.  
+Используемые библиотеки и технологии: `Django`, `Django`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
+
+- **Многофункциональный Telegram-бот** для учебной группы.  
 Возможности:
     - Отправка уведомлений о начале лекции/семинара с названием предмета, названием урока, ссылкой на страницу урока, в несколько Telegram групп по таймеру.
     - Поздравление пользователей группы с днём рождения.
     - Поздравление с праздниками.
-    - Бонусом, показывает прогноз погоды по введённому городу.  
-  
-  Используемые библиотеки и технологии:
-    - AIOGram
-    - SQLite
-    - Requests
-    - AppScheduler
+    - Отображение прогноза погоды по введённому городу.  
+Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
     
 
-<h4 align="right">updated: 20.05.23</h3>
+<h4 align="right">updated: 31.05.23</h3>
