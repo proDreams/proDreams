@@ -16,6 +16,12 @@
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
+- [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для крановщика упрощающее ведение записей по количеству поднятого за рабочий день.
+Используемые библиотеки:
+    - Kivy
+    - KivyMD
+    - gspread
+    - SQLite
 - [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Программа для игры Path of Exile. Рассчитывает соотношения стоимости предмета к сфере хаоса.  
 Используемые библиотеки:
     - Flet
