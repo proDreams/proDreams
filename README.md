@@ -23,7 +23,7 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
 Используемые библиотеки: `Flet`, `Requests`, `Selenium`, `Webdriver-manager`, `PyYAML`
 
 - **Дипломный проект** - Сайт база-знаний для работников контактного центра.  
-Используемые библиотеки и технологии: `Django`, `Django`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
+Используемые библиотеки и технологии: `Django`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
 
 - **Многофункциональный Telegram-бот** для учебной группы.  
 Возможности:
