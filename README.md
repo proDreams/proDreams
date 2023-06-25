@@ -16,6 +16,8 @@
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
+- [**Telegram-канал Код на салфетке**](https://t.me/press_any_button) - Канал посвящён программированию на Python и не только. В нём я пишу различные гайды, циклы "от начала и до победного" и просто обсуждаю в комментариях различные интересные вещи.
+
 - [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для Android "Счётчик для оператора манипулятора".
     - Используемые библиотеки: `Kivy`, `KivyMD`, `gspread`, `SQLite`
 
@@ -34,4 +36,4 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
     - Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
     
 
-<h4 align="right">updated: 17.06.23</h3>
+<h4 align="right">updated: 25.06.23</h3>
