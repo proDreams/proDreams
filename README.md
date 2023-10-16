@@ -16,7 +16,13 @@
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
-- [**Telegram-канал Код на салфетке**](https://t.me/press_any_button) - Канал посвящён программированию на Python и не только. В нём я пишу различные гайды, циклы "от начала и до победного" и просто обсуждаю в комментариях различные интересные вещи.
+- **Код на салфетке** - Проект с гайдами и полезными материалами по программированию.
+    - [**Сайт Код на салфетке**](https://pressanybutton.ru/) - Выполнен с использованием `Django`, `DRF`, `Bootstrap`, `Docker` и рядом `Django-библиотек`.
+    - [**Telegram-канал Код на салфетке**](https://t.me/press_any_button)
+    - [**Telegram-бот Бот на салфетке**](https://t.me/press_any_button_bot) - Выполнен на `AIOgram3` с использованием библиотеки `requests`.
+
+- [**Тестовое задание в LAD Academy**](https://github.com/proDreams/lad_test_assignment) - Выполненное тестовое задание для стажировки в LAD Academy.
+    - Выполнен с использованием `Django`, `Django REST Framework` и `Bootstrap`.
 
 - [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для Android "Счётчик для оператора манипулятора".
     - Используемые библиотеки: `Kivy`, `KivyMD`, `gspread`, `SQLite`
