@@ -30,8 +30,8 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
 - [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Приложение с графическим интерфейсом для оценки внутриигровых предметов в онлайн игре.  
     - Используемые библиотеки: `Flet`, `Requests`, `Selenium`, `Webdriver-manager`, `PyYAML`
 
-- **Дипломный проект** - Сайт база-знаний для работников контактного центра.  
-    - Используемые библиотеки и технологии: `Django`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
+- [**Дипломный проект**](https://github.com/proDreams/diploma_project) - Сервис для сотрудников службы поддержки.  
+    - Используемые библиотеки и технологии: `Django`, `DRF`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
 
 - **Многофункциональный Telegram-бот** для учебной группы.  
     - Возможности:
@@ -42,4 +42,4 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
     - Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
     
 
-<h4 align="right">updated: 25.06.23</h3>
+<h4 align="right">updated: 25.12.23</h3>
