@@ -16,7 +16,7 @@
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
-- **Код на салфетке** - Проект с гайдами и полезными материалами по программированию.
+- **[Код на салфетке](https://github.com/proDreams/pressanybutton_project)** - Проект с гайдами и полезными материалами по программированию.
     - [**Сайт Код на салфетке**](https://pressanybutton.ru/) - Выполнен с использованием `Django`, `DRF`, `Bootstrap`, `Docker` и рядом `Django-библиотек`.
     - [**Telegram-канал Код на салфетке**](https://t.me/press_any_button)
     - [**Telegram-бот Бот на салфетке**](https://t.me/press_any_button_bot) - Выполнен на `AIOgram3` с использованием библиотеки `requests`.
@@ -42,4 +42,4 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
     - Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
     
 
-<h4 align="right">updated: 25.12.23</h3>
+<h4 align="right">updated: 07.01.24</h3>
