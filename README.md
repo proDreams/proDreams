@@ -20,6 +20,13 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
     - [**Сайт Код на салфетке**](https://pressanybutton.ru/) - Выполнен с использованием `Django`, `DRF`, `Bootstrap`, `Docker` и рядом `Django-библиотек`.
     - [**Telegram-канал Код на салфетке**](https://t.me/press_any_button)
     - [**Telegram-бот Бот на салфетке**](https://t.me/press_any_button_bot) - Выполнен на `AIOgram3` с использованием библиотеки `requests`.
+ 
+- **[Textures Cutter](https://github.com/proDreams/texture_cutter)** - Программа для нарезки изображения/текстуры на отдельные элементы по указанным координатам, с заданным размером и названием элемента.  
+    Нарезанные изображения сохраняются в отдельной директории с названием основного файла.
+    - Выполнен с использованием `Pillow`.
+
+- **[MPF Tools Converter](https://github.com/proDreams/mpf_tools_converter)** - Программа пакетной обработки MPF-файлов(файлы для станков с ЧПУ) с заменой определённых значений согласно таблице замены.
+    - Выполнен с использованием `flet`, `PyYAML`, `csv`.
 
 - [**Тестовое задание в LAD Academy**](https://github.com/proDreams/lad_test_assignment) - Выполненное тестовое задание для стажировки в LAD Academy.
     - Выполнен с использованием `Django`, `Django REST Framework` и `Bootstrap`.
