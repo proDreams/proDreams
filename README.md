@@ -49,4 +49,4 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
     - Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
     
 
-<h4 align="right">updated: 07.01.24</h3>
+<h4 align="right">updated: 30.01.24</h3>
