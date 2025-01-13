@@ -1,52 +1,20 @@
 ## Приветствую  
-Меня зовут Иван. Обучаюсь на специальности Python-разработчик.
-
-## Навыки
-- Опыт работы с `Python 3`
-- Знание стандартной библиотеки: написание функций, классов, модулей и т.д.
-- Опыт работы с фреймворком `Django`: понимание принципов работы фреймворка и умение использовать его инструменты.
-- Опыт работы с базами данных `MySQL`, `PostgreSQL` и умение писать запросы к БД
-- Опыт работы с библиотекой `requests` для работы с веб-сервисами
-- Опыт разработки настольных приложений на `Python` с использованием библиотек: `Flet`, `Kivy`
-- Опыт работы с `Telegram` ботами на библиотеке `Aiogram`
-- Опыт в разработке парсеров с использованием `Selenium`
-- Опыт работы с `API` сторонних сервисов и написание собственных с использованием `Django REST`
+Меня зовут Иван.
 
 ## Контакт
 Telegram: [**@proDreams**](https://t.me/proDreams)
 
 ## Мои проекты:
-- **[Код на салфетке](https://github.com/proDreams/pressanybutton_project)** - Проект с гайдами и полезными материалами по программированию.
-    - [**Сайт Код на салфетке**](https://pressanybutton.ru/) - Выполнен с использованием `Django`, `DRF`, `Bootstrap`, `Docker` и рядом `Django-библиотек`.
-    - [**Telegram-канал Код на салфетке**](https://t.me/press_any_button)
-    - [**Telegram-бот Бот на салфетке**](https://t.me/press_any_button_bot) - Выполнен на `AIOgram3` с использованием библиотеки `requests`.
- 
-- **[Textures Cutter](https://github.com/proDreams/texture_cutter)** - Программа для нарезки изображения/текстуры на отдельные элементы по указанным координатам, с заданным размером и названием элемента.  
-    Нарезанные изображения сохраняются в отдельной директории с названием основного файла.
-    - Выполнен с использованием `Pillow`.
 
-- **[MPF Tools Converter](https://github.com/proDreams/mpf_tools_converter)** - Программа пакетной обработки MPF-файлов(файлы для станков с ЧПУ) с заменой определённых значений согласно таблице замены.
-    - Выполнен с использованием `flet`, `PyYAML`, `csv`.
-
-- [**Тестовое задание в LAD Academy**](https://github.com/proDreams/lad_test_assignment) - Выполненное тестовое задание для стажировки в LAD Academy.
-    - Выполнен с использованием `Django`, `Django REST Framework` и `Bootstrap`.
-
-- [**HamsterApp**](https://github.com/proDreams/HamsterApp) - Приложение для Android "Счётчик для оператора манипулятора".
-    - Используемые библиотеки: `Kivy`, `KivyMD`, `gspread`, `SQLite`
-
-- [**PoE-IPC**](https://github.com/proDreams/PoE-IPC) - Приложение с графическим интерфейсом для оценки внутриигровых предметов в онлайн игре.  
-    - Используемые библиотеки: `Flet`, `Requests`, `Selenium`, `Webdriver-manager`, `PyYAML`
-
-- [**Дипломный проект**](https://github.com/proDreams/diploma_project) - Сервис для сотрудников службы поддержки.  
-    - Используемые библиотеки и технологии: `Django`, `DRF`, `Django ckeditor`, `AIOGram`, `Docker`, `PostgreSQL`, `Bootstrap5`, `Requests`
-
-- **Многофункциональный Telegram-бот** для учебной группы.  
-    - Возможности:
-        - Отправка уведомлений о начале лекции/семинара с названием предмета, названием урока, ссылкой на страницу урока, в несколько Telegram групп по таймеру.
-        - Поздравление пользователей группы с днём рождения.
-        - Поздравление с праздниками.
-        - Отображение прогноза погоды по введённому городу.  
-    - Используемые библиотеки и технологии: `AIOGram`, `SQLite`, `Requests`, `AppScheduler`
-    
-
-<h4 align="right">updated: 30.01.24</h3>
+| Проект                        | Описание                                                            | Языки и технологии                               | Основные функции                                                        | Статус                                                                                  | Ссылка                                                                          |
+| ----------------------------- | ------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **ReBack**                    | Утилита для создания бэкапов и восстановления данных в S3-хранилище | `Rust`, `tokio`, `serde`, `rust-s3`, `chrono`    | Создание резервных копий для баз данных и файлов, восстановление данных | ![Release](https://img.shields.io/github/v/release/proDreams/reback)                    | [Ссылка](https://github.com/proDreams/reback)                                   |
+| **Async YooKassa**            | Неофициальный клиент для работы с API ЮKassa                        | `Python`, `Poetry`, `pydantic`, `httpx`          | Интеграция с платёжной системой ЮKacca, обработка запросов              | ![Latest Stable Version](https://img.shields.io/pypi/v/async_yookassa.svg)              | [Ссылка](https://github.com/proDreams/async_yookassa)                           |
+| **actions-telegram-notifier** | Action для GitHub, который отправляет оповещения в Telegram         | `Rust`, `reqwest`, `tokio`                       | Оповещения в Telegram о статусе workflow в GitHub Actions               | ![Release](https://img.shields.io/github/v/release/proDreams/actions-telegram-notifier) | [Ссылка](https://github.com/proDreams/actions-telegram-notifier)                |
+| **Код на салфетке**           | Сайт и Telegram-канал с гайдами по программированию                 | `Python`, `Django`, `DRF`, `Bootstrap`, `Docker` | Гайды, статьи и код для разработчиков                                   | В процессе                                                                              | [Telegram](https://t.me/press_any_button)<br>[Сайт](https://pressanybutton.ru/) |
+| **Textures Cutter**           | Программа для нарезки изображений по координатам                    | `Python`, `Pillow`                               | Нарезка изображений с заданным размером и именами                       | Завершено                                                                               | [Ссылка](https://github.com/proDreams/texture_cutter)                           |
+| **MPF Tools Converter**       | Программа для пакетной обработки MPF-файлов                         | `Python`, `flet`, `PyYAML`, `csv`                | Замена значений в MPF-файлах для станков с ЧПУ                          | Завершено                                                                               | [Ссылка](https://github.com/proDreams/mpf_tools_converter)                      |
+| **HamsterApp**                | Android-приложение для учёта работы оператора манипулятора          | `Python`, `Kivy`, `SQLite`                       | Счётчик для оператора манипулятора                                      | Завершено                                                                               | [Ссылка](https://github.com/proDreams/HamsterApp)                               |
+| **PoE-IPC**                   | Приложение для оценки внутриигровых предметов                       | `Python`, `Flet`, `Selenium`, `Requests`         | Оценка внутриигровых предметов в игре Path of Exile                     | Завершено                                                                               | [Ссылка](https://github.com/proDreams/PoE-IPC)                                  |
+   
+<h4 align="right">updated: 13.01.25</h3>
