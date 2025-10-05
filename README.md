@@ -27,4 +27,4 @@ Telegram: [**@proDreams**](https://t.me/proDreams)
 | **HamsterApp**                | Android-приложение для учёта работы оператора манипулятора крана                            | `Python`, `Kivy`, `SQLite`                                | ![Status](https://img.shields.io/badge/Status-Complete-orange)                          | [Ссылка](https://github.com/proDreams/HamsterApp)                               |
 | **PoE-IPC**                   | Приложение для оценки предметов и валюты в игре Path of Exile 1                             | `Python`, `Flet`, `Selenium`, `Requests`                  | ![Status](https://img.shields.io/badge/Status-Complete-orange)                          | [Ссылка](https://github.com/proDreams/PoE-IPC)                                  |
 
-<h4 align="right">updated: 16.03.25</h3>
+<h4 align="right">updated: 05.10.25</h3>
